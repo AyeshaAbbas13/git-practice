@@ -1,4 +1,1 @@
-def greet():
-    print("Hello from feature-greeting branch!")
-
-greet()
+print("Option B: Change made on conflict-branch-2")
