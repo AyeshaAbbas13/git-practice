@@ -1,1 +1,1 @@
-print("Option A: Change made on conflict-branch-1")
+print("Resolved: Combining changes from both branches!")
